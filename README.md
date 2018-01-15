@@ -16,3 +16,11 @@ This led later while I was on the bus, to think about how this mechanic could be
 Also been thinking of fairy tales a lot and possible ways to integrate them into this game.
 
 Wonder if I can make the soldier and extra tank version for next week.
+
+# Jan 15 - Jan 21
+
+As we were discussing lights and the TANKS! unity game in general I came up with some ideas about what to play around with. Simple things like adding a sort of day night cycle to the game in which the sun/ light just moves over the area and out to represent the course of day and night, maybe adding lamp objects that turn on at night time.
+
+As continuation to my puzzle ideas from last week I decided it'd be interesting if rather than the tank having a flash light theplayer can only see the environment based on the bullet emission to navigate an area. Or the tank shoots some form of Light rounds that illuminate an area for a while after they explode or remain where they land emmitting light for things like platforming and such. Need to work on the exit and enter tank script for the little soldier I modelled for my unfinished idea. 
+
+In regards to camera I thought mainly of having it change depending on whether the player is in the tank or out. Hard to come up with other ideas, except maybe changing from orthographic to dynamic/regular 3D camera to solve environmental puzzles that otherwise couldn't be solved. Maybe even a First person mode that can be accessed through key press to examine other things. Need to research this further.
