@@ -19,7 +19,7 @@ Wonder if I can make the soldier and extra tank version for next week.
 
 # Jan 15 - Jan 21
 
-# 1
+# Initial Ideas
 
 As we were discussing lights and the TANKS! unity game in general I came up with some ideas about what to play around with. Simple things like adding a sort of day night cycle to the game in which the sun/ light just moves over the area and out to represent the course of day and night, maybe adding lamp objects that turn on at night time.
 
