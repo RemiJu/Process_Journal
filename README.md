@@ -19,6 +19,8 @@ Wonder if I can make the soldier and extra tank version for next week.
 
 # Jan 15 - Jan 21
 
+# 1
+
 As we were discussing lights and the TANKS! unity game in general I came up with some ideas about what to play around with. Simple things like adding a sort of day night cycle to the game in which the sun/ light just moves over the area and out to represent the course of day and night, maybe adding lamp objects that turn on at night time.
 
 As continuation to my puzzle ideas from last week I decided it'd be interesting if rather than the tank having a flash light the player can only see the environment based on the bullet emission to navigate an area. Or the tank shoots some form of Light rounds that illuminate an area for a while after they explode or remain where they land emmitting light for things like platforming and such. Need to work on the exit and enter tank script for the little soldier I modelled for my unfinished idea. 
