@@ -38,3 +38,9 @@ In regards to my original idea as well, the scattering of other tanks and having
 Turns out the day/night idea was already done haha. But there are still many other things that can be edited. Illuminated 3D objects for environmental navigation. Think about more interesting things to work with for the rough prototype next week. Time Based light switches for navigation as well. For example panels that only light up at certain intervals.
 
 -Game in which tank is controlled in a 3D area but navigates through the viewpoints of many cameras, and thats how you must determine where the tank is in the map. Dont get to see the tank, only either light or camera static.
+
+# Secondary Progress Update
+
+I've been experimenting with the camera and Lights, I've decided that itd be interesting if there were many screens displayed simultaneously and that the player must navigate a maze of displays in order to achieve their goal. I am still loking into entering and exiting vehicles as well. It'd also be interesting if the lights would only turn on if the player is in front of the camera that corresponds to the particular light. The goal may be to reach the enmy player or to enter their tank and then leave the area. 
+
+This is the version I want to focus my efforts onto for now, as the more complex puzzle horror game would require many things I'm still not familiar/confident enough in. I will research things further. There are quite a few dumb bugs I must eke out.
