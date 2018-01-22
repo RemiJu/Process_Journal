@@ -44,3 +44,9 @@ Turns out the day/night idea was already done haha. But there are still many oth
 I've been experimenting with the camera and Lights, I've decided that itd be interesting if there were many screens displayed simultaneously and that the player must navigate a maze of displays in order to achieve their goal. I am still loking into entering and exiting vehicles as well. It'd also be interesting if the lights would only turn on if the player is in front of the camera that corresponds to the particular light. The goal may be to reach the enmy player or to enter their tank and then leave the area. 
 
 This is the version I want to focus my efforts onto for now, as the more complex puzzle horror game would require many things I'm still not familiar/confident enough in. I will research things further. There are quite a few dumb bugs I must eke out.
+
+# Jan 22 - Jan 28
+
+# Lights and Camera Idea Evolution Week 2
+
+New Idea has developed from issues trying to get the cameras to work as I want them to. The new Idea involves keeping the 16 cameras (but presenting the better aesthetically) but having them each represent a different level. So the pprogression must be tracked by the player from monitor to monitor while solving puzzles. Maybe bring down number of cameras from 16 to something more manageable and interesting. With different camera angles and setups.
