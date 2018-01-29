@@ -53,6 +53,8 @@ New Idea has developed from issues trying to get the cameras to work as I want t
 
 # Jan 29 - Feb 4
 
-# Lights and Camera Idea Evolution Week 3
+# Lights and Camera Process Evolution Week 3
+
+# Monday Update:
 
 The past week was spent mainly on designing the levels/Puzzles as well as deciding what the final camera set up would be. Ultimately I decided to cut it down from 4 to 3 main puzzles (With one being a tutorial for all intents and purposes). I modelled out their Layouts based off of sketches and then brought them over to Unity. Where I realized that I must also take into account how far the light reaches for the puzzles to work... or that I'd need to make it so that the bullets a tank shoots only explode if they leave the area and will instead remain as light sources where they Landed. This may be preferable and much more interesting. in the end. This Does mean that some things need to be changed in terms of level design. Though theyre minor changes. I must get this to work as Intended, which should not really pose much Issue now that most of the Additional code has been done (Minus the bullet aspect) I must now just set up all the level collisions and materials as intended, set the cameras and test it out.
