@@ -50,3 +50,9 @@ This is the version I want to focus my efforts onto for now, as the more complex
 # Lights and Camera Idea Evolution Week 2
 
 New Idea has developed from issues trying to get the cameras to work as I want them to. The new Idea involves keeping the 16 cameras (but presenting the better aesthetically) but having them each represent a different level. So the pprogression must be tracked by the player from monitor to monitor while solving puzzles. Maybe bring down number of cameras from 16 to something more manageable and interesting. With different camera angles and setups.
+
+# Jan 29 - Feb 4
+
+# Lights and Camera Idea Evolution Week 3
+
+The past week was spent mainly on designing the levels/Puzzles as well as deciding what the final camera set up would be. Ultimately I decided to cut it down from 4 to 3 main puzzles (With one being a tutorial for all intents and purposes). I modelled out their Layouts based off of sketches and then brought them over to Unity. Where I realized that I must also take into account how far the light reaches for the puzzles to work... or that I'd need to make it so that the bullets a tank shoots only explode if they leave the area and will instead remain as light sources where they Landed. This may be preferable and much more interesting. in the end. This Does mean that some things need to be changed in terms of level design. Though theyre minor changes. I must get this to work as Intended, which should not really pose much Issue now that most of the Additional code has been done (Minus the bullet aspect) I must now just set up all the level collisions and materials as intended, set the cameras and test it out.
