@@ -62,3 +62,8 @@ The past week was spent mainly on designing the levels/Puzzles as well as decidi
 # Saturday Update:
 
 I spent time adding colliders to the level and testing the camera arrangement. In the end I have 4 Cameras. 3 are Puzzle cameras and the last is the player camera. This camera follows the player around at a closer zoom than the others to clarify the direction of movement and overall navigation in the larger less visible areas. Tested to make sure It still showed under certain points. Now just need to make some small tweaks to the tanksand win/lose conditions and I should have a good prototype for class. Also Increased Tank Light Intensity to make sure theyre visible in the darkness. Also maybe deal with the music.
+
+# Sunday Final Lights Update(?)
+
+AAARGH, The Player entering Tank Script isnt working as I want It to, And the Lights similarly Have a rough time staying put, There are also some visibility issues. So I've decided to make a change to the overall structure. Rather than control the tanks independently, they are all controlled simultaneously, an issue lies with them faling off level so that will be changed as well so that they are more like rotating turrets used to light the soldier's way. I hope to fix it down the line, but sadly my prototype for tomorrow wont be what I hoped.
+
