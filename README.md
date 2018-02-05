@@ -67,3 +67,12 @@ I spent time adding colliders to the level and testing the camera arrangement. I
 
 AAARGH, The Player entering Tank Script isnt working as I want It to, And the Lights similarly Have a rough time staying put, There are also some visibility issues. So I've decided to make a change to the overall structure. Rather than control the tanks independently, they are all controlled simultaneously, an issue lies with them faling off level so that will be changed as well so that they are more like rotating turrets used to light the soldier's way. I hope to fix it down the line, but sadly my prototype for tomorrow wont be what I hoped.
 
+# Monday Final Lights Camera Update (For now)
+
+Ran into a few issues in making the build for the game and making the game over and win conditions happen as intended. They still are't exactly as I want them currently but they're there. I was terrified for a bit when my home version of unity crashed and everything seemed to have been deleted. Thankfully it wasn't. I couldn't build at home so I brought it to class only to find out that the Unity version on the school computers had been updated so things apparently became obsolete and incompatible. I kept having issues making a build till fairly late into class.
+
+# Monday Sound Ideas
+
+Some initial Ideas for what to do for the prototype are coming to mind, such as making a sort of red light green light style game based on music in which certain areas become damage areas when music plays or doesn't or at certain beats. Or the ability to create sounds from the bullet collisions. References to bring to class have also come to mind such as the NieR Automata Blog post on sound, and videos on music and other sound implementation in games like Bastion, Transistor and other games. Diegetic and non diegetic implementations and interesting compositions.
+
+I will post more Ideas here as they come to mind and develop them further, this time trying to not overcomplicate my idea and prototype. Scope is important, I sure wish I were good at managing it.
