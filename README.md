@@ -71,6 +71,8 @@ AAARGH, The Player entering Tank Script isnt working as I want It to, And the Li
 
 Ran into a few issues in making the build for the game and making the game over and win conditions happen as intended. They still are't exactly as I want them currently but they're there. I was terrified for a bit when my home version of unity crashed and everything seemed to have been deleted. Thankfully it wasn't. I couldn't build at home so I brought it to class only to find out that the Unity version on the school computers had been updated so things apparently became obsolete and incompatible. I kept having issues making a build till fairly late into class.
 
+# Feb 5 - Feb 11
+
 # Monday Sound Ideas
 
 Some initial Ideas for what to do for the prototype are coming to mind, such as making a sort of red light green light style game based on music in which certain areas become damage areas when music plays or doesn't or at certain beats. Or the ability to create sounds from the bullet collisions. References to bring to class have also come to mind such as the NieR Automata Blog post on sound, and videos on music and other sound implementation in games like Bastion, Transistor and other games. Diegetic and non diegetic implementations and interesting compositions.
