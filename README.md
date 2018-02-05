@@ -29,15 +29,15 @@ In regards to camera I thought mainly of having it change depending on whether t
 
 In regards to my original idea as well, the scattering of other tanks and having the soldier be the true goal adds to the use of the map which was criticized in class. I have ideas of how to make things work, such as when soldier collides with tank they switch layers. The main issue I have though is how the tank script must be changed for my idea to work as well as the game manager, mainly with things such as having the tank be assigned the controls of the player that enters and not having them interfere with others. As well as already having the tanks be active before being entered.
 
--Turret game idea: Have different tanks set around the area with their own cameras which are only controlled when you select their camera and chooose to shoot. May be a security panel like situation with UI buttons to control the shooting action. Have the bullets work as light source again so as to make it seem horror like as well. What are we shooting at and why, etc. Camera turns off when collision with enemy.(Becomes fuzzy or static if enemy nearby maybe?)
+- Turret game idea: Have different tanks set around the area with their own cameras which are only controlled when you select their camera and chooose to shoot. May be a security panel like situation with UI buttons to control the shooting action. Have the bullets work as light source again so as to make it seem horror like as well. What are we shooting at and why, etc. Camera turns off when collision with enemy.(Becomes fuzzy or static if enemy nearby maybe?)
 
--Make Camera change rotation or position when a shot is fired/hits at random. Making the game disorienting and the such.
+- Make Camera change rotation or position when a shot is fired/hits at random. Making the game disorienting and the such.
 
--Cutscene like situation, when tank exits the area and starts falling time slows down and actions must be taken to complete an objective in a specified time. Shoot something or have panels with story around. Can serve as transition from one place to another. During this the camera changes places to obscure things and maybe moves around the tank before the area changes. Scene changes are like jump cuts. Can use that to advantage in code.
+- Cutscene like situation, when tank exits the area and starts falling time slows down and actions must be taken to complete an objective in a specified time. Shoot something or have panels with story around. Can serve as transition from one place to another. During this the camera changes places to obscure things and maybe moves around the tank before the area changes. Scene changes are like jump cuts. Can use that to advantage in code.
 
 Turns out the day/night idea was already done haha. But there are still many other things that can be edited. Illuminated 3D objects for environmental navigation. Think about more interesting things to work with for the rough prototype next week. Time Based light switches for navigation as well. For example panels that only light up at certain intervals.
 
--Game in which tank is controlled in a 3D area but navigates through the viewpoints of many cameras, and thats how you must determine where the tank is in the map. Dont get to see the tank, only either light or camera static.
+- Game in which tank is controlled in a 3D area but navigates through the viewpoints of many cameras, and thats how you must determine where the tank is in the map. Dont get to see the tank, only either light or camera static.
 
 # Secondary Progress Update
 
