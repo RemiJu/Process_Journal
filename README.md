@@ -19,7 +19,7 @@ Wonder if I can make the soldier and extra tank version for next week.
 
 # Jan 15 - Jan 21
 
-# Initial Ideas
+## Initial Ideas
 
 As we were discussing lights and the TANKS! unity game in general I came up with some ideas about what to play around with. Simple things like adding a sort of day night cycle to the game in which the sun/ light just moves over the area and out to represent the course of day and night, maybe adding lamp objects that turn on at night time.
 
@@ -39,7 +39,7 @@ Turns out the day/night idea was already done haha. But there are still many oth
 
 - Game in which tank is controlled in a 3D area but navigates through the viewpoints of many cameras, and thats how you must determine where the tank is in the map. Dont get to see the tank, only either light or camera static.
 
-# Secondary Progress Update
+## Secondary Progress Update
 
 I've been experimenting with the camera and Lights, I've decided that itd be interesting if there were many screens displayed simultaneously and that the player must navigate a maze of displays in order to achieve their goal. I am still loking into entering and exiting vehicles as well. It'd also be interesting if the lights would only turn on if the player is in front of the camera that corresponds to the particular light. The goal may be to reach the enmy player or to enter their tank and then leave the area. 
 
@@ -47,34 +47,38 @@ This is the version I want to focus my efforts onto for now, as the more complex
 
 # Jan 22 - Jan 28
 
-# Lights and Camera Idea Evolution Week 2
+## Lights and Camera Idea Evolution Week 2
 
 New Idea has developed from issues trying to get the cameras to work as I want them to. The new Idea involves keeping the 16 cameras (but presenting the better aesthetically) but having them each represent a different level. So the pprogression must be tracked by the player from monitor to monitor while solving puzzles. Maybe bring down number of cameras from 16 to something more manageable and interesting. With different camera angles and setups.
 
 # Jan 29 - Feb 4
 
-# Lights and Camera Process Evolution Week 3
+## Lights and Camera Process Evolution Week 3
 
-# Monday Update:
+## Monday Update:
 
 The past week was spent mainly on designing the levels/Puzzles as well as deciding what the final camera set up would be. Ultimately I decided to cut it down from 4 to 3 main puzzles (With one being a tutorial for all intents and purposes). I modelled out their Layouts based off of sketches and then brought them over to Unity. Where I realized that I must also take into account how far the light reaches for the puzzles to work... or that I'd need to make it so that the bullets a tank shoots only explode if they leave the area and will instead remain as light sources where they Landed. This may be preferable and much more interesting. in the end. This Does mean that some things need to be changed in terms of level design. Though theyre minor changes. I must get this to work as Intended, which should not really pose much Issue now that most of the Additional code has been done (Minus the bullet aspect) I must now just set up all the level collisions and materials as intended, set the cameras and test it out.
 
-# Saturday Update:
+## Saturday Update:
 
 I spent time adding colliders to the level and testing the camera arrangement. In the end I have 4 Cameras. 3 are Puzzle cameras and the last is the player camera. This camera follows the player around at a closer zoom than the others to clarify the direction of movement and overall navigation in the larger less visible areas. Tested to make sure It still showed under certain points. Now just need to make some small tweaks to the tanksand win/lose conditions and I should have a good prototype for class. Also Increased Tank Light Intensity to make sure theyre visible in the darkness. Also maybe deal with the music.
 
-# Sunday Final Lights Update(?)
+## Sunday Final Lights Update(?)
 
 AAARGH, The Player entering Tank Script isnt working as I want It to, And the Lights similarly Have a rough time staying put, There are also some visibility issues. So I've decided to make a change to the overall structure. Rather than control the tanks independently, they are all controlled simultaneously, an issue lies with them faling off level so that will be changed as well so that they are more like rotating turrets used to light the soldier's way. I hope to fix it down the line, but sadly my prototype for tomorrow wont be what I hoped.
 
-# Monday Final Lights Camera Update (For now)
+## Monday Final Lights Camera Update (For now)
 
 Ran into a few issues in making the build for the game and making the game over and win conditions happen as intended. They still are't exactly as I want them currently but they're there. I was terrified for a bit when my home version of unity crashed and everything seemed to have been deleted. Thankfully it wasn't. I couldn't build at home so I brought it to class only to find out that the Unity version on the school computers had been updated so things apparently became obsolete and incompatible. I kept having issues making a build till fairly late into class.
 
 # Feb 5 - Feb 11
 
-# Monday Sound Ideas
+## Monday Sound Ideas
 
 Some initial Ideas for what to do for the prototype are coming to mind, such as making a sort of red light green light style game based on music in which certain areas become damage areas when music plays or doesn't or at certain beats. Or the ability to create sounds from the bullet collisions. References to bring to class have also come to mind such as the NieR Automata Blog post on sound, and videos on music and other sound implementation in games like Bastion, Transistor and other games. Diegetic and non diegetic implementations and interesting compositions.
 
 I will post more Ideas here as they come to mind and develop them further, this time trying to not overcomplicate my idea and prototype. Scope is important, I sure wish I were good at managing it.
+
+## Tuesday Sound Ideas
+
+Main Game idea concept for now came to mind while in class, The idea of sound boxes or areas that make noise when triggered but also trigger so that the enemy AI targets the point from where the sound came. In this way a stealth game of sorts can be made in which the soldier must avoid making noise or the AI will be alerted. When the AI either sees the player or reaches the sound box the bool would turn off and return to original behaviours.
