@@ -82,3 +82,9 @@ I will post more Ideas here as they come to mind and develop them further, this 
 ## Tuesday Sound Ideas
 
 Main Game idea concept for now came to mind while in class, The idea of sound boxes or areas that make noise when triggered but also trigger so that the enemy AI targets the point from where the sound came. In this way a stealth game of sorts can be made in which the soldier must avoid making noise or the AI will be alerted. When the AI either sees the player or reaches the sound box the bool would turn off and return to original behaviours.
+
+# Feb 12 - Feb 18
+
+## Monday Sound Ideas
+
+Basic sound prototype test with some features available. I couldn't get the AI to work from the addon so I looked up a way to make a basic tutorial that would serve my purposes. As such the prototype is still the base LevelArt (May change), and the base functions are that the tank will move towards the sound if the soundsource is triggered, and will chase the player if the player goes into the Tank's range. Currently the alternating floorboards aren't working but when they do it should damage the soldier or heal them depending on the boolean state which corresponds to the music/sound that plays. There will also be more tanks in the final edition and sound sources. The concept is based mainly off of the fight against David in _[The Last of Us](https://www.youtube.com/watch?v=-hqYCczGt7k)_, and the floor is both inspired in part by _[Crypt of the Necrodancer](https://www.youtube.com/watch?v=Rs4Sc6-PjQI)_ and also serves as motivation to keep the character moving.
