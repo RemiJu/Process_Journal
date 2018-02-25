@@ -99,6 +99,11 @@ In the current sound prototype the soldier will be followed if seen and also the
 
 # Feb 19 - Feb 25
 ## Friday Report
+
 The past week has been spent mainly on adding a bit of further functionality to the AI, which may ultimately go to waste if things don't go according to plan in the implementation of the new 3D models that have been the focus of the past week. Though they could be changed to accomodate if necessary.
 
 Main focus is the implementation of gravity to a spherical environment and allowing both the player and AIs to navigate said environment while avoiding obstacles. As well as implementing special triggers for the enemies and newly recorded sound effects.
+
+## Saturday Update
+
+There were some issues with the area modelling but those were fixed easily. However in the end I had to go against the mini planet idea due to peculiarities with the code. I instead made the levels into hill like structures that must be traversed for a similar effect to that of the original Idea. Now I just have to iron out some code edits and fix up the sound as well as menus and It should be done. I Need to manage multiple projects simultaneously better because a lot of time was wasted due to a roundtable rendering on the main PC interfering my other work due to strange lag. I need to lookinto this.
