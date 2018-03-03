@@ -111,3 +111,10 @@ There were some issues with the area modelling but those were fixed easily. Howe
 ## Sunday Update
 
 Hahaha, It was a day. I always end up stressing out over things and not noticing simple mistakes but it has been rather productive. I almost reset things multiple times due to minor issues I didn't understand till getting up and looking again. A major problem with me is that I don't feel as though what I've done is good enough or it is too simple so I end up forcing myself to add more stuff where it isn't necessary. I think the enemy noticing the player when a sound is made is good enough, though I was able to add enemy patrols now, and the tank does damage over time when it hits the soldier. I still have issues with the menu implementation but thats that, I'll find a way to fix it in the final version. I also do not know how to reset all the parameters when a scene is reloaded yet either so thats something that needs to change. I'm glad I was able to make use of most of my aesthetic decisions in spite of some issues. I'm generally happy with what I've made but my idea for a greater project to come out of this one still remains as well.
+
+# Feb 26th to March 5th
+## Saturday Update
+
+I've been having abit of trouble coming up with ideas for this new project prototype. Interesting Ideas and just ideas that would work well with my final game idea conccept. One of the reasons I may be having a bit of trouble is because I have already been working with 3D environments or space to varying degrees in my past projects. 
+
+One Idea I may pursue is an expansion of the world and gravity Idea I had for my past project, but this time with a sor of explorable insides of the area. Exploring moving areas that are antered for additional esher like aspect perhaps. Mazes into strange areas. This would take some work but I'd love to explore the concept further.
