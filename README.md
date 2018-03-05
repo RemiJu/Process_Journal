@@ -118,3 +118,7 @@ Hahaha, It was a day. I always end up stressing out over things and not noticing
 I've been having abit of trouble coming up with ideas for this new project prototype. Interesting Ideas and just ideas that would work well with my final game idea conccept. One of the reasons I may be having a bit of trouble is because I have already been working with 3D environments or space to varying degrees in my past projects. 
 
 One Idea I may pursue is an expansion of the world and gravity Idea I had for my past project, but this time with a sor of explorable insides of the area. Exploring moving areas that are antered for additional esher like aspect perhaps. Mazes into strange areas. This would take some work but I'd love to explore the concept further.
+
+## Sunday Update
+
+While looking for references that would allow me to make a round planet to walk o, I instead ran into a code that pulls objects towards it. Amongst other code this made me think that it could be interesting to instead work on a sort of endless falling survival game. In which the player must survive a certain amount of time without being pulled in by the pits of despair or some such. Rather than avoid obstacles the goal would be to use them to your advantage as platforms that slow down the player's descent, as they'd likely fall slower than the player, allowing the player to think a bit on their next move in order to survive.
