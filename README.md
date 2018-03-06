@@ -122,3 +122,8 @@ One Idea I may pursue is an expansion of the world and gravity Idea I had for my
 ## Sunday Update
 
 While looking for references that would allow me to make a round planet to walk o, I instead ran into a code that pulls objects towards it. Amongst other code this made me think that it could be interesting to instead work on a sort of endless falling survival game. In which the player must survive a certain amount of time without being pulled in by the pits of despair or some such. Rather than avoid obstacles the goal would be to use them to your advantage as platforms that slow down the player's descent, as they'd likely fall slower than the player, allowing the player to think a bit on their next move in order to survive.
+
+# Maech 6th to March 12th
+## Monday follow up and Tuesday Update
+
+As discussed in class, I've now decided to work wit impossible spaces and the illusion of changing gravity by implementing portals into the game which will teleport the player onto separaate faces of the cubic area. However this is an illusion as the player is actually being teleported to a completely different cube on a different are that has the new face set as the bottom face so as to allow gravity to work normally. It serves as a sort of purgatory and look back on the past/life of the soldier in each face.
