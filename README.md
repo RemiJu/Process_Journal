@@ -127,3 +127,7 @@ While looking for references that would allow me to make a round planet to walk 
 ## Monday follow up and Tuesday Update
 
 As discussed in class, I've now decided to work wit impossible spaces and the illusion of changing gravity by implementing portals into the game which will teleport the player onto separaate faces of the cubic area. However this is an illusion as the player is actually being teleported to a completely different cube on a different are that has the new face set as the bottom face so as to allow gravity to work normally. It serves as a sort of purgatory and look back on the past/life of the soldier in each face.
+
+## Saturday Update
+
+I've mainly been working on modelling out the cube zones as the code for the gameplay aspect I hope to pursue should be pretty much complete. I just need to integrate it into the game. The focus is 3D objects which I hope I can manage well enough. I am also developing the story for the characters further in my mind and trying to see how it'd all fit in well together. And how I could achieve everything in a much grander scale.
