@@ -123,11 +123,16 @@ One Idea I may pursue is an expansion of the world and gravity Idea I had for my
 
 While looking for references that would allow me to make a round planet to walk o, I instead ran into a code that pulls objects towards it. Amongst other code this made me think that it could be interesting to instead work on a sort of endless falling survival game. In which the player must survive a certain amount of time without being pulled in by the pits of despair or some such. Rather than avoid obstacles the goal would be to use them to your advantage as platforms that slow down the player's descent, as they'd likely fall slower than the player, allowing the player to think a bit on their next move in order to survive.
 
-# Maech 6th to March 12th
+# March 6th to March 12th
 ## Monday follow up and Tuesday Update
 
-As discussed in class, I've now decided to work wit impossible spaces and the illusion of changing gravity by implementing portals into the game which will teleport the player onto separaate faces of the cubic area. However this is an illusion as the player is actually being teleported to a completely different cube on a different are that has the new face set as the bottom face so as to allow gravity to work normally. It serves as a sort of purgatory and look back on the past/life of the soldier in each face.
+As discussed in class, I've now decided to work with impossible spaces and the illusion of changing gravity by implementing portals into the game which will teleport the player onto separaate faces of the cubic area. However this is an illusion as the player is actually being teleported to a completely different cube on a different are that has the new face set as the bottom face so as to allow gravity to work normally. It serves as a sort of purgatory and look back on the past/life of the soldier in each face.
 
 ## Saturday Update
 
 I've mainly been working on modelling out the cube zones as the code for the gameplay aspect I hope to pursue should be pretty much complete. I just need to integrate it into the game. The focus is 3D objects which I hope I can manage well enough. I am also developing the story for the characters further in my mind and trying to see how it'd all fit in well together. And how I could achieve everything in a much grander scale.
+
+# March 13th to 19th 
+## Monday follow up and wednesday updates
+
+I've been mainly working on the environment fixing up each face to be interesting in its own way. It has changed from a cube to a semi hexagonal sphere of sorts. It may ultimately be more work but I'm enjoying it well enough. Need to get some reflective water shaders and such for the unity build version as water has a significant role.
