@@ -136,3 +136,8 @@ I've mainly been working on modelling out the cube zones as the code for the gam
 ## Monday follow up and wednesday updates
 
 I've been mainly working on the environment fixing up each face to be interesting in its own way. It has changed from a cube to a semi hexagonal sphere of sorts. It may ultimately be more work but I'm enjoying it well enough. Need to get some reflective water shaders and such for the unity build version as water has a significant role.
+
+## Friday, Saturday and Sunday Reports
+
+I've been working on the models, and it has gotten to the point that I may not be able to texture them all on time for the project 3 submission. I will probably have to texture them during my work on the final assignment submission. The models have also been getting more simplified per are than before. To save on time. At least The Game should get working however.And perhaps a shader.
+
