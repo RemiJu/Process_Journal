@@ -141,3 +141,20 @@ I've been mainly working on the environment fixing up each face to be interestin
 
 I've been working on the models, and it has gotten to the point that I may not be able to texture them all on time for the project 3 submission. I will probably have to texture them during my work on the final assignment submission. The models have also been getting more simplified per are than before. To save on time. At least The Game should get working however.And perhaps a shader.
 
+# March 20th to April 1st
+
+## Summary of work:
+
+I've not kept up the process journal as much as I hoped sadly but I will provide a summary of what I've been generally working on for the final project submission:
+
+- Initial designs for the Final product idea (these are rough character and narrative sketches/outlines that will not be present for submission, but rather for the final Game/narrative experience I wish to make down the line which will be a work in progress, likely for some time to come)
+
+- UV unwrapping and rearrangement of all model assets to prep for texturing in the 3D objects section.
+
+- Main menu layout design and initial test code preparations.
+
+- Addition of more portals and a portal model in the 3D objects section, fixing of controls in part.
+
+- Removal of generic grating music from Lightsand camera section.
+
+Generally small changes to each build but just wrapping everything together up nicely for the final class presentation while juggling some additional stuff that may need ironing out such as narrative and character work.
