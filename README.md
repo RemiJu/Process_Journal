@@ -155,6 +155,24 @@ I've not kept up the process journal as much as I hoped sadly but I will provide
 
 - Addition of more portals and a portal model in the 3D objects section, fixing of controls in part.
 
-- Removal of generic grating music from Lightsand camera section.
+- Removal of generic grating music from Lights and camera section.
 
 Generally small changes to each build but just wrapping everything together up nicely for the final class presentation while juggling some additional stuff that may need ironing out such as narrative and character work.
+
+# April 2nd to April 8th
+
+## Summary of work:
+
+- Final development of Main Menu scene and all related options such as controls and descriptions.
+
+- Control optimization for Lights and Camera section
+
+- Implementation of pause features and menu in Lights and Camera section
+
+- Game over and Game win fix for Lights and Camera Section.
+
+- Pause Menu implementation for Sounds section.
+
+- new issue with game over in Sound section.
+
+- new issue with AI in sound area.
