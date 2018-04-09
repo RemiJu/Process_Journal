@@ -182,3 +182,16 @@ Generally small changes to each build but just wrapping everything together up n
 - Fixed Object project Camera switch and jump delay bug as well as made new FPS camera
 
 - weird teleportation glitch: at weird points in the second area character will teleport back to original area, may need to redo areas.
+
+# April 9th to April 15th
+
+## Summary of work:
+
+- fixed strange teleportation bug from Object game scene
+
+- found issue with light dark jumping mechanic, may need tweaking.
+
+
+- found error when transferring from menu to other game modes: missing game object. May cause issues when building final game.
+
+- was provided with a good water shader, may make use of it in Object scene as planned.
