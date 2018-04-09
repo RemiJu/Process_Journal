@@ -178,3 +178,7 @@ Generally small changes to each build but just wrapping everything together up n
 - new issue with AI in sound area.
 
 - Fixed Game over in sound Section.
+
+- Fixed Object project Camera switch and jump delay bug as well as made new FPS camera
+
+- weird teleportation glitch: at weird points in the second area character will teleport back to original area, may need to redo areas.
