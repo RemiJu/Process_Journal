@@ -176,3 +176,5 @@ Generally small changes to each build but just wrapping everything together up n
 - new issue with game over in Sound section.
 
 - new issue with AI in sound area.
+
+- Fixed Game over in sound Section.
