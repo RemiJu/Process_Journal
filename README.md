@@ -195,3 +195,13 @@ Generally small changes to each build but just wrapping everything together up n
 - found error when transferring from menu to other game modes: missing game object. May cause issues when building final game.
 
 - was provided with a good water shader, may make use of it in Object scene as planned.
+
+# Final Prototype Post
+
+Before submission I decided to make some small changes to the Prototypes due to certain issues that were given rise to for reason's I wasn't completely able to overcome.
+
+- Portals in the Object prototypes do not head backwards anymore.
+- Portals were added for ALL of the sides of the area as opposed to 4 or the original 2 caused by limitations.
+- Made use of the water Shader Effect.
+- All 3D models were reimported and re scaled.
+- Use of basic Textures for textured version.
